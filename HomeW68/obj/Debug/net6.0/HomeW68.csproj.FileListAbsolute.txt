@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\bin\Debug\net6.0\HomeW68.exe
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\bin\Debug\net6.0\HomeW68.deps.json
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\bin\Debug\net6.0\HomeW68.runtimeconfig.json
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\bin\Debug\net6.0\HomeW68.dll
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\bin\Debug\net6.0\HomeW68.pdb
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.dll
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\refint\HomeW68.dll
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.pdb
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\HomeW68.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek Brains\Intermediate certification\HomeW68\obj\Debug\net6.0\ref\HomeW68.dll
